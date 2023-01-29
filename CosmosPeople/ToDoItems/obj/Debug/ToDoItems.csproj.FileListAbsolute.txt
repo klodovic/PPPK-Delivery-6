@@ -1,0 +1,448 @@
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Cosmos.CRTCompat.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\ToDoItems.dll.config
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\ToDoItems.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\ToDoItems.pdb
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\csc.exe
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\csc.exe.config
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\csc.rsp
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\csi.exe
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\csi.exe.config
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\csi.rsp
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.AppContext.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Console.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.IO.Compression.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Net.Http.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Net.Sockets.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.ValueTuple.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XPath.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\vbc.exe
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\vbc.exe.config
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\vbc.rsp
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Antlr3.Runtime.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Azure.Core.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Newtonsoft.Json.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Buffers.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Collections.Immutable.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Memory.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Numerics.Vectors.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Security.AccessControl.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Security.Permissions.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Security.Principal.Windows.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.ValueTuple.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.Helpers.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.Mvc.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.Optimization.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.Razor.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.WebPages.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.WebPages.Razor.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\WebGrease.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Azure.Core.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Client.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Buffers.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Collections.Immutable.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Memory.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Numerics.Vectors.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.ValueTuple.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.Helpers.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.Mvc.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.Optimization.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.Razor.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.WebPages.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\System.Web.WebPages.Razor.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Newtonsoft.Json.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Antlr3.Runtime.pdb
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.AssemblyReference.cache
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.CoreCompileInputs.cache
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.CopyComplete
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\obj\Debug\ToDoItems.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\NoSql\ToDoItems\ToDoItems\obj\Debug\ToDoItems.pdb
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Cosmos.CRTCompat.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\ToDoItems.dll.config
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\ToDoItems.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\ToDoItems.pdb
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csc.exe
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csc.exe.config
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csc.rsp
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csi.exe
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csi.exe.config
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csi.rsp
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.AppContext.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Console.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.Compression.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Net.Http.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Net.Sockets.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.ValueTuple.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XPath.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\vbc.exe
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\vbc.exe.config
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\vbc.rsp
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Antlr3.Runtime.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Azure.Core.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Newtonsoft.Json.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Buffers.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Collections.Immutable.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Memory.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Numerics.Vectors.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Security.AccessControl.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Security.Permissions.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Security.Principal.Windows.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.ValueTuple.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Helpers.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Mvc.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Optimization.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Razor.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Razor.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\WebGrease.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Azure.Core.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Client.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Buffers.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Collections.Immutable.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Memory.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Numerics.Vectors.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.ValueTuple.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Helpers.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Mvc.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Optimization.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Razor.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Razor.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Newtonsoft.Json.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Antlr3.Runtime.pdb
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.AssemblyReference.cache
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.CoreCompileInputs.cache
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.CopyComplete
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.dll
+C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.pdb
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Cosmos.CRTCompat.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\ToDoItems.dll.config
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\ToDoItems.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\ToDoItems.pdb
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csc.exe
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csc.exe.config
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csc.rsp
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csi.exe
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csi.exe.config
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\csi.rsp
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.AppContext.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Console.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.Compression.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Net.Http.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Net.Sockets.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.ValueTuple.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XPath.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\vbc.exe
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\vbc.exe.config
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\vbc.rsp
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Antlr3.Runtime.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Azure.Core.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Newtonsoft.Json.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Buffers.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Collections.Immutable.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Memory.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Numerics.Vectors.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Security.AccessControl.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Security.Permissions.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Security.Principal.Windows.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.ValueTuple.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Helpers.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Mvc.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Optimization.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Razor.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Razor.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\WebGrease.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Azure.Core.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Client.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Buffers.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Collections.Immutable.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Memory.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Numerics.Vectors.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.ValueTuple.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Helpers.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Mvc.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Optimization.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.Razor.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Razor.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Newtonsoft.Json.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Antlr3.Runtime.pdb
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.AssemblyReference.cache
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.CoreCompileInputs.cache
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.CopyComplete
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.dll
+C:\Users\daniel.bele\source\repos\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.pdb
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Cosmos.CRTCompat.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\ToDoItems.dll.config
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\ToDoItems.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\ToDoItems.pdb
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\csc.exe
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\csc.exe.config
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\csc.rsp
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\csi.exe
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\csi.exe.config
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\csi.rsp
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.AppContext.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Console.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.Compression.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Net.Http.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.ValueTuple.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\vbc.exe
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\vbc.exe.config
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\vbc.rsp
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\VBCSCompiler.exe
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Antlr3.Runtime.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Azure.Core.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Newtonsoft.Json.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Buffers.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Collections.Immutable.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Memory.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Numerics.Vectors.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Security.AccessControl.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Security.Permissions.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Security.Principal.Windows.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.ValueTuple.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.Helpers.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.Mvc.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.Optimization.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.Razor.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Razor.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\WebGrease.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Azure.Core.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.Azure.Cosmos.Client.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Buffers.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Collections.Immutable.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Memory.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Numerics.Vectors.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.ValueTuple.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.Helpers.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.Mvc.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.Optimization.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.Razor.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\System.Web.WebPages.Razor.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Newtonsoft.Json.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Antlr3.Runtime.pdb
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.AssemblyReference.cache
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.CoreCompileInputs.cache
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.csproj.CopyComplete
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.dll
+C:\Users\Next Design\Desktop\PPPK\Vježbe\Vježbe 11-12\PPPK_Vjezbe1112\ToDoItems\ToDoItems\obj\Debug\ToDoItems.pdb

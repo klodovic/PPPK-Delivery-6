@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\daniel.bele\sources\workspaces\pppk\2021\Vjezbe\1112\ToDoItems\ToDoItems\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
