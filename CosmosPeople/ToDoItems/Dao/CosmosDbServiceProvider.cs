@@ -7,8 +7,8 @@ namespace ToDoItems.Dao
     {
         private const string DatabaseName = "People";
         private const string ContainerName = "People";
-        private const string Account = "https://jspersonpppk.documents.azure.com:443/";
-        private const string Key = "Xc2I1o534mT3KQeLOhcTcb3YeYGsvCZogyUVfynCYxho5Q9HPB4VjiAorDgB7GePcEkxJkbSE6UDACDbKBjhIw==";
+        private const string Account = "";
+        private const string Key = "";
 
         private static ICosmosDbService cosmosDbService;
         public static ICosmosDbService CosmosDbService { get => cosmosDbService; }
